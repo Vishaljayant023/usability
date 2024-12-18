@@ -78,5 +78,13 @@
         --padding-inline-section: 8px;
     
     }
+    .feature-card{
+        min-width: 100%;
+        margin-block: 20px;
+    
+    }
+    .example-card{
+        width: 100%;
+    }
     
 }
